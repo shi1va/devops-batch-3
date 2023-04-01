@@ -3,4 +3,4 @@ commit
 status
 log
 diff
-
+log --oneline 
