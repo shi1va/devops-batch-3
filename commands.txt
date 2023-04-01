@@ -1,0 +1,6 @@
+add
+commit
+status
+log
+diff
+
