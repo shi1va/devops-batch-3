@@ -1,0 +1,6 @@
+hello
+this is feature 3 created - dev 1 - fixed
+
+dev 2- added his changesi
+
+dev 1 - added something
