@@ -1,1 +1,3 @@
 added a new feature by dev -2
+
+added a feature by dev 3 and dev 1
